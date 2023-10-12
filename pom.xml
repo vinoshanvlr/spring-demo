@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>demo-0.0.1-SNAPSHOT</finalName>
+		<finalName>devops-integration</finalName>
 	</build>
 
 </project>
